@@ -2,7 +2,7 @@
 
 [index](./Index.md)
 
-[angular](./angular.md)
+[angular](./ANGULAR.md)
 
 
 teste

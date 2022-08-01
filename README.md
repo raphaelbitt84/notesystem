@@ -1,6 +1,8 @@
 # This is a TEST
 
+[index](./index.md)
 [[notesystem/Index]]
+
 <!-- PROJECT LOGO -->
 
 <br />

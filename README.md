@@ -1,6 +1,12 @@
 # This is a TEST
 
-[index](./blob/master/Index.md)
+[index](./Index.md)
+
+
+teste
+
+
+
 [[notesystem/Index]]
 
 <!-- PROJECT LOGO -->

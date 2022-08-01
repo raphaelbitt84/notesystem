@@ -1,6 +1,6 @@
 # This is a TEST
 
-[index](https://github.com/raphaelbitt84/repo/blob/master/index.md )
+[index](https://github.com/raphaelbitt84/notesystem/blob/master/Index.md)
 [[notesystem/Index]]
 
 <!-- PROJECT LOGO -->
